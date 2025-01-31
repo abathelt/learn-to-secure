@@ -7,6 +7,19 @@ Author:
 Explains why this phase is important in cybersecurity. Example: <br>
 Before diving into security topics, it's crucial to grasp the basics of IT. Understanding operating systems, networking, and virtualization is essential for security professionals to analyze and defend systems effectively.
 
+### Objectives
+What the learner will know after learning this phase
+
+### Prerequisites
+What does the learner need for learning this, for example: ubuntu VM. 
+
+### Topics
+Example: 
+| No. | Topic |
+|--|--|
+| 1. | Networking commands |
+| 2. | Windows commands |
+
 ### How to break down this phase
 - Provides a study approach and timeline for learning.
 - Suggests whether the phase should be studied theoretically, practically, or both.
@@ -25,6 +38,9 @@ Lists the key takeaways and skills to be gained. Example:
 - Basic Windows & Linux administration
 - Networking fundamentals (IP addressing, protocols, troubleshooting)
 - Setting up a virtual lab environment for cybersecurity learning
+
+### Test your knowledge
+We can provide the questions which will test the knowledge or prompts to ask AI for particular knwoledge
 
 ### Certifications you might want to look into
 Lists industry-recognized certifications relevant to this phase. Example:<br>
