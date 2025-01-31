@@ -31,7 +31,6 @@ This guide is for beginners who want to break into cybersecurity, whether you're
 - Alerts & Incident Identification
 - Network Attacks & Threat Hunting
 - Web Security & Log Analysis
-- Threat Hunting
 ### Phase 4: Malware, Phishing & Advanced Threats
 - Introduction to Malware Analysis
 - Phishing Analysis & Detection
