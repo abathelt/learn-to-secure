@@ -27,7 +27,7 @@ This guide is for beginners who want to break into cybersecurity, whether you're
 - Data Encoding, Hashing & Encryption
 - Introduction to SIEM
 - Introduction to MITRE ATT&CK Framework
-### Phase 3: Threat Detection & Incident Analysis
+### [Phase 3: Threat Detection & Incident Analysis](https://github.com/abathelt/learn-to-secure/blob/main/Phase%203.md#phase-3-threat-detection--incident-analysis)
 - Alerts & Incident Identification
 - Network Attacks & Threat Hunting
 - Web Security & Log Analysis
