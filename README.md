@@ -13,7 +13,7 @@ By the end of it, you should have the technical knowledge for roles like:
 
 This guide is for beginners who want to break into cybersecurity, whether you're transitioning from another IT field or starting from scratch. 🚀
 
-### Phase 0: Starting from zero
+### [Phase 0: Starting from zero](https://github.com/abathelt/learn-to-secure/blob/main/materials/Phase%201.md)
 - Operating System Fundamentals
 - Networking Fundamentals
 - Virtualization & Cloud Computing
@@ -37,7 +37,7 @@ This guide is for beginners who want to break into cybersecurity, whether you're
 ### Phase 5: Incident Response & Automation
 - Incident Response Process
 - Regular Expressions (Regex) for SOC Analysts
-### Phase 6: Digital Forensics
+### [Phase 6: Digital Forensics](https://github.com/abathelt/learn-to-secure/blob/main/Phase%206.md)
 - Introduction to Digital Forensics
 - Disk & File System Forensics
 - Memory Forensics
