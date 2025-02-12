@@ -44,7 +44,7 @@ To get the most out of this phase, break it down into three parts:
 - Microsoft SC-200 – Security Operations Analyst certification
 - GCIA (GIAC Certified Intrusion Analyst) 
 
-### Porjects
+### Projects
 - Analyze a PCAP file with Wireshark to identify suspicious activity
 - Investigate firewall logs and detect a brute-force attack
 - Filter logs using Splunk or ELK to find Indicators of Compromise (IoCs)
